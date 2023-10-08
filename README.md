@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Syahrul Bhudi Ferdiansyah</h1>
+<div align="center">
+  <img src="./img/rin.gif" alt="Rin GIF">
+</div>
+
 - Call me Syahrul 😊
 
-  - 🌱 I’m currently learning **NextJS, SQL server, svelte**
+- 🌱 I’m currently learning **NextJS, SQL server, svelte**
 
-  - 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to help
 
-  - 📫 How to reach me **syahrul4w@gmail.com**
+- 📫 How to reach me **syahrul4w@gmail.com**
 
-  - 🥅 2023 Goals: FullStack Software Engineer
+- 🥅 2023 Goals: FullStack Software Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
