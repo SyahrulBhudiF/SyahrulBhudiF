@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me **syahrul4w@gmail.com**
+- 📫 How to reach me **syahrul88w@gmail.com**
 
 - 🥅 2023 Goals: FullStack Software Engineer
 
