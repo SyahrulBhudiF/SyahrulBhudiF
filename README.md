@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **syahrul88w@gmail.com**
 
-- 🥅 2023 Goals: FullStack Software Engineer
+- 🥅 2023 Goals: FullStack Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
