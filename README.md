@@ -5,13 +5,11 @@
 
 - Call me Syahrul 😊
 
-- 🌱 I’m currently learning **NextJS, SQL server, svelte**
+- 🌱 I’m currently learning **SvelteKit**
 
 - 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **syahrul88w@gmail.com**
-
-- 🥅 2023 Goals: FullStack Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
