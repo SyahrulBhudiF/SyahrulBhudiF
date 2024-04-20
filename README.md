@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Syahrul Bhudi Ferdiansyah</h1>
+<h1 align="center">Hi, I'm Syahrul</h1>
 <div align="center">
   <img src="./img/rin.gif" alt="Rin GIF">
 </div>
-
-- Call me Syahrul 😊
-
-- 🌱 I’m currently learning **SvelteKit**
-
-- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **syahrul88w@gmail.com**
 
