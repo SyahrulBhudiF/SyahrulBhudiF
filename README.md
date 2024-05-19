@@ -5,7 +5,7 @@
 
   
 
-<div align="center">I`m have experience in creating websites. Have more expertise in the Frontend development and now i`m learning about Backend development</div>  
+<div align="center">I have experience in creating websites. Have more expertise in the Frontend development and now i am learning about Backend development</div>  
   
 
 <br/>  
