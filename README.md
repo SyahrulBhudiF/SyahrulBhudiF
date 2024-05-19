@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm Syahrul</h1>
+### <div align="center">Hi there, I'm Syahrul 🚀</div>  
 <div align="center">
   <img src="./img/rin.gif" alt="Rin GIF">
 </div>
 
-- 📫 How to reach me **syahrul88w@gmail.com**
+  
+
+<div align="center">I`m have experience in creating websites. Have more expertise in the Frontend development and now i`m learning about Backend development</div>  
+  
+
+<br/>  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
