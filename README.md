@@ -23,19 +23,4 @@
 ### ⏳ Wakatime Breakdown
 
 <!--START_SECTION:waka-->
-
-| Language | Time Spent | Percentage |
-| --- | --- | --- |
-| PHP | 5 hrs 31 mins | 46.29% |
-| Go | 2 hrs 32 mins | 21.31% |
-| TypeScript | 2 hrs 32 mins | 21.3% |
-| HTML | 17 mins | 2.51% |
-| SQL | 17 mins | 2.41% |
-| Log | 16 mins | 2.24% |
-| YAML | 15 mins | 2.18% |
-| Bash | 6 mins | 0.94% |
-| .env file | 4 mins | 0.58% |
-| Markdown | 1 min | 0.18% |
-| JSON | 0 secs | 0.06% |
-
 <!--END_SECTION:waka-->
