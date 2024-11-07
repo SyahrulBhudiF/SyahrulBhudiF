@@ -1,14 +1,14 @@
-### <div align="center">Hi there, I'm Syahrul 🚀</div>  
+### <div align="center">Hi there, I'm Syahrul 🚀</div>
 <div align="center">
   <img src="./img/rin.gif" alt="Rin GIF">
 </div>
 
-  
 
-<div align="center">I have experience in creating websites. I can do both frontend and backend dev</div>  
-  
 
-<br/>  
+<div align="center">I have experience in creating websites. I can do both frontend and backend dev</div>
+
+
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +18,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syahrulbhudif&show_icons=true&locale=en&layout=compact" alt="syahrulbhudif" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
