@@ -1,4 +1,5 @@
 ### <div align="center">Hi there, I'm Syahrul 🚀</div>
+
 <div align="center">
   <img src="./img/rin.gif" alt="Rin GIF">
 </div>
@@ -19,7 +20,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syahrulbhudif&show_icons=true&locale=en&layout=compact" alt="syahrulbhudif" /></p>
 
-### ⏳ Weekly Development Breakdown
+### ⏳ Wakatime Breakdown
+
 <!--START_SECTION:waka-->
 
 ```txt
