@@ -34,7 +34,10 @@ jobs:
             // Update README.md
             const readmePath = './README.md';
             const readmeContent = fs.readFileSync(readmePath, 'utf8');
-            const newReadmeContent = readmeContent.replace(/### 📊 Weekly Development Breakdown[\s\S]*?(?=###|$)/, statsTable);
+            const newReadmeContent = readmeContent.replace(
+              /<!--START_SECTION:waka-->[\s\S]*<!--END_SECTION:waka-->/,
+              `<!--START_SECTION:waka-->\n${statsTable}\n<!--END_SECTION:waka-->`
+            );
             fs.writeFileSync(readmePath, newReadmeContent);
 
             // Commit changes

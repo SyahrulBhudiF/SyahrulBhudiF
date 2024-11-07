@@ -23,13 +23,4 @@
 ### ⏳ Wakatime Breakdown
 
 <!--START_SECTION:waka-->
-
-```txt
-PHP          5 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.39 %
-TypeScript   2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
-Go           2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-HTML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-SQL          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-```
-
 <!--END_SECTION:waka-->
