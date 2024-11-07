@@ -1,55 +1,17 @@
-name: Update WakaTime Stats
+name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Jalankan setiap tengah malam
+  # for manual workflow trigger
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Get WakaTime Stats
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=$WAKATIME_API_KEY" -o waka-stats.json
-
-      - name: Update README
-        uses: actions/github-script@v6
+      - uses: athul/waka-readme@master # this action name
         with:
-          script: |
-            const fs = require('fs');
-            const data = JSON.parse(fs.readFileSync('waka-stats.json', 'utf8'));
-
-            const statsTable = `
-            | Language | Time Spent | Percentage |
-            | --- | --- | --- |
-            ${data.data.languages.map(lang => `| ${lang.name} | ${lang.text} | ${lang.percent}% |`).join('\n')}
-            `;
-
-            // Update README.md
-            const readmePath = './README.md';
-            const readmeContent = fs.readFileSync(readmePath, 'utf8');
-            const newReadmeContent = readmeContent.replace(
-              /<!--START_SECTION:waka-->[\s\S]*<!--END_SECTION:waka-->/,
-              `<!--START_SECTION:waka-->\n${statsTable}\n<!--END_SECTION:waka-->`
-            );
-            fs.writeFileSync(readmePath, newReadmeContent);
-
-            // Commit changes
-            await github.rest.repos.createOrUpdateFileContents({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              path: 'README.md',
-              message: 'Update WakaTime stats',
-              content: Buffer.from(newReadmeContent).toString('base64'),
-              sha: (await github.rest.repos.getContent({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                path: 'README.md'
-              })).data.sha
-            });
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
