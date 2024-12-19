@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/syahrulbhudif_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@syahrulbhudif_" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=SyahrulBhudiF&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 </div>
