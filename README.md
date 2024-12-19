@@ -19,10 +19,8 @@
 </p>
 
 # 📊 GitHub Stats:
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=SyahrulBhudiF&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyahrulBhudiF&theme=midnight-purple&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyahrulBhudiF&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 
