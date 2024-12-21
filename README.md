@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats:
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyahrulBhudiF&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SyahrulBhudiF&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SyahrulBhudiF&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
