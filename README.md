@@ -6,7 +6,7 @@
 
 
 
-<div align="center">I have experience in creating websites. I can do both frontend and backend dev</div>
+<div align="center">I'm Fullstack Developer, but i'd like to bsckend dev fr</div>
 
 
 <br/>
