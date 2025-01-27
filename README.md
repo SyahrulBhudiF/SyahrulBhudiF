@@ -6,7 +6,7 @@
 
 
 
-<div align="center">I'm Fullstack Developer, but i'd like to bsckend dev fr</div>
+<div align="center">I'm Fullstack Developer, but i'd like to backend dev fr</div>
 
 
 <br/>
