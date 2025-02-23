@@ -23,10 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                   8 hrs 26 mins   ███████████░░░░░░░░░░░░░░   43.86 %
-Docker                3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-Blade Template        2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Bash                  1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+PHP              7 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.67 %
+Blade Template   2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Docker           1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Bash             1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 ```
 
 <!--END_SECTION:waka-->
