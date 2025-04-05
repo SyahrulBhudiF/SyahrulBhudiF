@@ -23,10 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              1 hr 59 mins    █████████████████░░░░░░░░   67.80 %
-Rust             34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Log              16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
