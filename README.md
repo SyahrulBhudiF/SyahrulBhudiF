@@ -23,10 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker      1 hr 5 mins     ███████████████░░░░░░░░░░   60.05 %
-Go          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Makefile    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Bash        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
