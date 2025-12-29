@@ -23,9 +23,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 5 mins    ████████████████████████░   96.06 %
-TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python       30 mins         ████████████████████░░░░░   79.54 %
+TypeScript   7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.46 %
 ```
 
 <!--END_SECTION:waka-->
