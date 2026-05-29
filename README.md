@@ -23,9 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        14 hrs 57 mins        ████████▒░░░░░░░░░░░░░░░░   33.82 %
-Go                8 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
-PHP               2 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+TypeScript        14 hrs 18 mins        █████████░░░░░░░░░░░░░░░░   35.48 %
+Go                8 hrs 4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.01 %
+Image (png)       2 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
 ```
 
 <!--END_SECTION:waka-->
