@@ -23,9 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    10 hrs 37 mins        ██████████▓░░░░░░░░░░░░░░   43.27 %
-Other         4 hrs 18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-MDX           59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+TypeScript    13 hrs 13 mins        ████████████▓░░░░░░░░░░░░   50.39 %
+Other         4 hrs 29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+HTML          1 hr 8 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
