@@ -23,11 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other         12 mins               ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Image (png)   11 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-Bash          11 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
-Nix           6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Java          4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
