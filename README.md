@@ -18,15 +18,6 @@
 </div>
 
 
-### Wakatime Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Python   3 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-```
-
-<!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syahrul-bhudi-ferdiansyah-792024251/" target="_blank">
